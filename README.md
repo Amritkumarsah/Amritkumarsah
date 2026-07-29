@@ -31,11 +31,11 @@
 <td valign="top" width="50%">
 
 ```yaml
-role:        Full Stack Developer
-focus:       MERN + AI-driven products
-learning:    DSA, System Design
-mindset:     Ship > Perfect
-based_in:    India 🇮🇳
+role:        Full Stack & AI Developer
+focus:        Generative AI Applications
+learning:    DSA, System Design, D
+goal:        Software Engineer | AI Engineer
+location:    India 🇮🇳
 ```
 
 </td>
@@ -63,14 +63,14 @@ based_in:    India 🇮🇳
 ## 📊 By The Numbers
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Amritkumarsah&show_icons=true&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritkumarsah&layout=compact&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=D4AF37&line=D4AF37&point=ffffff&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amritkumarsah&bg_color=0d1117&color=D4AF37&line=D4AF37&point=ffffff&hide_border=true&area=true" width="100%"/>
 </div>
 
 <br/>
