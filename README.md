@@ -100,9 +100,9 @@ location:    India 🇮🇳
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/-Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=D4AF37"/></a>
-<a href="https://leetcode.com/your-handle"><img src="https://img.shields.io/badge/-LeetCode-0f0c29?style=for-the-badge&logo=leetcode&logoColor=D4AF37"/></a>
+<a href="https://www.linkedin.com/in/amrit-sah-b38a00337"><img src="https://img.shields.io/badge/-LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/></a>
+<a href="mailto:sahamrit3333@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=D4AF37"/></a>
+<a href="https://leetcode.com/u/amritsah_CSE/"><img src="https://img.shields.io/badge/-LeetCode-0f0c29?style=for-the-badge&logo=leetcode&logoColor=D4AF37"/></a>
 <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/-Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=D4AF37"/></a>
 
 <br/><br/>
