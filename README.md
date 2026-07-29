@@ -19,7 +19,10 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px"/>
 
 <div align="center">
-<i>“Code is the closest thing we have to magic — I just cast a few spells a day.”</i>
+<i>“Code is the closest thing we have to magic — I just cast a few spells a day.”
+⚡ "Learn. Build. Break. Fix. Repeat."
+🔥 "Code with purpose, build with passion."
+🧠 "Engineering isn't about knowing everything; it's about learning anything.</i>
 </div>
 
 <br/>
