@@ -1,68 +1,114 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8E2DE2&height=200&section=header&text=Amrit%20Kumar%20Sah&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=3&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Real-World+Products" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:302b63,100:D4AF37&height=180&section=header&text=AMRIT%20KUMAR%20SAH&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20•%20AI%20ENTHUSIAST&descAlignY=62&descSize=13&descColor=D4AF37&animation=fadeIn" width="100%"/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=36BCF7&style=flat-square&label=views)](https://github.com/YOUR_USERNAME)
-[![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=8E2DE2&labelColor=black)](https://github.com/YOUR_USERNAME)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3200&pause=1200&color=D4AF37&center=true&vCenter=true&width=560&lines=Turning+ideas+into+production-grade+code;Building+with+the+MERN+stack+%2B+AI;Obsessed+with+clean%2C+scalable+systems" alt="Typing SVG" />
 
-</div>
+<br/><br/>
 
-🎓 CSE student sharpening DSA & System Design · 💻 Full-stack developer, schema to UI · 🤖 Building real projects with AI, not just talking about it
-
-<br/>
-
-<div align="center">
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-<br/>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-<br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://img.shields.io/badge/-CSE_STUDENT-0f0c29?style=for-the-badge&labelColor=0f0c29&color=D4AF37"/>
+<img src="https://img.shields.io/badge/-OPEN_TO_WORK-0f0c29?style=for-the-badge&labelColor=0f0c29&color=D4AF37"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=D4AF37&labelColor=0f0c29&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px"/>
+
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-<br/>
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
+<i>“Code is the closest thing we have to magic — I just cast a few spells a day.”</i>
 </div>
 
 <br/>
 
-## 🏆 Featured Projects
+## ⚡ Snapshot
 
-🧠 **NeuroAlert** &nbsp;·&nbsp; 🌾 **Project Kisan** &nbsp;·&nbsp; 🗳️ **Blockchain Voting System**
-🌐 **HackSphere** &nbsp;·&nbsp; 🎙️ **Voice Translator** &nbsp;·&nbsp; 🎨 **Retail Media Studio**
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-> Pin these on your profile and add live demo links for max impact.
+```yaml
+role:        Full Stack Developer
+focus:       MERN + AI-driven products
+learning:    DSA, System Design
+mindset:     Ship > Perfect
+based_in:    India 🇮🇳
+```
+
+</td>
+<td valign="top" width="50%">
+
+- 🎓 CSE student, deep in DSA & System Design
+- 💻 End-to-end builder — schema to pixel-perfect UI
+- 🤖 Shipping AI into real products, not demos
+- 🔭 Always one project ahead of my sleep schedule
+
+</td>
+</tr>
+</table>
 
 <br/>
 
+## 🧰 Arsenal
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,py,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,postman,figma&theme=dark&perline=7"/>
+</div>
+
+<br/>
+
+## 📊 By The Numbers
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=D4AF37&line=D4AF37&point=ffffff&hide_border=true&area=true" width="100%"/>
+</div>
+
+<br/>
+
+## 🏆 Featured Work
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">🧠<br/><b>NeuroAlert</b><br/><sub>Applied AI monitoring</sub></td>
+<td align="center" width="33%">🌾<br/><b>Project Kisan</b><br/><sub>AgriTech for farmers</sub></td>
+<td align="center" width="33%">🗳️<br/><b>Blockchain Voting</b><br/><sub>Tamper-proof elections</sub></td>
+</tr>
+<tr>
+<td align="center">🌐<br/><b>HackSphere</b><br/><sub>Hackathon platform</sub></td>
+<td align="center">🎙️<br/><b>Voice Translator</b><br/><sub>Real-time speech AI</sub></td>
+<td align="center">🎨<br/><b>Retail Media Studio</b><br/><sub>Creative ad tooling</sub></td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px"/>
+
+## 🌐 Let's Connect
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-handle)
+<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/></a>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/-Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=D4AF37"/></a>
+<a href="https://leetcode.com/your-handle"><img src="https://img.shields.io/badge/-LeetCode-0f0c29?style=for-the-badge&logo=leetcode&logoColor=D4AF37"/></a>
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/-Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=D4AF37"/></a>
 
-⭐ Thanks for visiting — happy coding! 🚀
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:36BCF7&height=100&section=footer" width="100%"/>
+<sub>⭐ Thanks for stopping by — let's build something great.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 </div>
