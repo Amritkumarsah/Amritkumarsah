@@ -54,7 +54,7 @@ location:    India 🇮🇳
 
 ## 🧰 Arsenal
 
-<div align="center"><img src="https://skillicons.dev/icons?i=cpp,java,js,ts,py,html,css,react,nodejs,express,mongodb,docker,firebase,git,github,postman,figma,vscode,unity&theme=dark&perline=7"/>
+<div align="center"><img src="https://skillicons.dev/icons?i=cpp,java,js,ts,py,html,css,react,nodejs,express,mongodb,docker,,git,github,,figma,vscode,unity&theme=dark&perline=7"/>
 </div>
 
 <br/>
