@@ -105,7 +105,7 @@ location:    India 🇮🇳
 <a href="https://www.linkedin.com/in/amrit-sah-b38a00337"><img src="https://img.shields.io/badge/-LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/></a>
 <a href="mailto:sahamrit3333@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=D4AF37"/></a>
 <a href="https://leetcode.com/u/amritsah_CSE/"><img src="https://img.shields.io/badge/-LeetCode-0f0c29?style=for-the-badge&logo=leetcode&logoColor=D4AF37"/></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/-Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=D4AF37"/></a>
+<a href=""><img src="https://img.shields.io/badge/-Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=D4AF37"/></a>
 <a href="https://www.codechef.com/users/amrit_004">
   <img src="https://img.shields.io/badge/-CodeChef-0f0c29?style=for-the-badge&logo=codechef&logoColor=D4AF37"/>
 </a>
